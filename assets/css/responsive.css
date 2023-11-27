@@ -1,0 +1,381 @@
+/* Big screen :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    .nice-select.lng_sl ul {
+        left: -50px;
+    }
+
+}
+
+
+/* Normal screen :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+    .product_btn ul li a{
+    padding: 20px 17px;
+}
+.sdl_form {
+    left: 0;
+    max-width: 100%;
+}
+.vdo_ytb iframe {
+    width: 100%;
+}
+
+.video_cont p {
+    margin-top: 10px;
+}
+.nice-select.lng_sl ul li {
+    padding-left: 5px;
+    font-size: 10px;
+    height: 24px;
+    line-height: 25px;
+    min-height: 25px;
+    padding-right: 5px;
+}
+.nice-select.lng_sl ul {
+    left: -50px;
+}
+
+
+}
+
+ 
+/* Tablet screen :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+    .product_btn ul li a {
+        padding: 16px 18px;
+        font-size: 16px;
+    }
+    .sdl_form{
+        left: 0;
+    }
+    .vdo_ytb iframe{
+    width: 100%;
+    height: 271px;
+}
+p{
+    font-size: 14px !important;
+}
+.video_cont p{
+    line-height: 23px;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+.title h2 {
+    font-size: 28px;
+}
+
+.sgl_count h1 {
+    font-size: 36px;
+}
+
+.sgl_count p {
+    font-size: 13px !important;
+}
+.sdl_form {
+    display: none;
+}
+.nice-select.lng_sl ul li {
+    padding-left: 5px;
+    font-size: 10px;
+    height: 24px;
+    line-height: 25px;
+    min-height: 25px;
+    padding-right: 5px;
+}
+section.count {
+    padding: 70px 0;
+}
+
+.about_vdo p {
+    font-size: 20px !important;
+}
+.sdl_form.ftr_form {
+    display: block;
+}
+
+.sdl_form.ftr_form input {
+    width: 350px;
+}
+
+.sdl_form.ftr_form .sdl_input .phn.w_50.d-flex {
+    width: 350px;
+}
+
+.sdl_form.ftr_form .nice-select.w_50.im_sl {
+    width: 350px;
+}
+
+.sdl_form.ftr_form a.btn_bdr {
+    max-width: 300px;
+}
+}
+
+ 
+/* small screen :320px. */
+@media (max-width: 767px) {
+    .product_btn ul li a {
+        font-size: 20px;
+        margin-bottom: 10px;
+        width: 100%;
+        padding: 20px 10px;
+        display: block;
+    }
+    .sdl_form{
+        left: 0;
+    }
+    .vdo_ytb iframe{
+    width: 100%;
+    height: 271px;
+}
+p{
+    font-size: 14px !important;
+}
+.video_cont p{
+    line-height: 23px;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+.title a{
+    font-size: 13px;
+    margin-bottom: 10px;
+}
+.title h2 {
+    font-size: 20px;
+    margin-bottom: 19px;
+}
+
+.sgl_count h1 {
+    font-size: 40px;
+}
+
+.sgl_count p {
+    font-size: 18px !important;
+}
+.sdl_form {
+    display: none;
+}
+.nice-select.lng_sl ul li {
+    padding-left: 5px;
+    font-size: 10px;
+    height: 24px;
+    line-height: 25px;
+    min-height: 25px;
+    padding-right: 5px;
+}
+section.count {
+    margin-top: 30px;
+    padding: 50px 0 30px;
+}
+
+.about_vdo p {
+    font-size: 20px !important;
+    margin-top: 20px;
+}
+.sdl_form.ftr_form {
+    display: block;
+}
+
+.sdl_form.ftr_form input {
+    width: 100%;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+}
+
+.sdl_form.ftr_form .sdl_input .phn.w_50.d-flex {
+    width: 100%;
+    margin-top: 0;
+}
+
+.sdl_form.ftr_form .nice-select.w_50.im_sl {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.sdl_form.ftr_form a.btn_bdr {
+    max-width: 300px;
+}
+.top_contact {
+    display: none;
+}
+
+.product_btn ul {
+    flex-wrap: wrap;
+}
+
+.bar {width: 140px;}
+
+.header-area .logo-area a img {
+    width: 90px;
+}
+.col-lg-3.col-0.d-block.d-sm-none.d-lg-block.d-md-none {
+    display: none !important;
+}
+
+.count_warp {
+    flex-wrap: wrap;
+}
+
+.sgl_count {
+    margin-bottom: 20px;
+}
+
+section.product.sec_pding.pt-5.mt-5 {
+    padding-top: 15px !important;
+}
+
+.product_btn {
+    margin-bottom: 40px;
+    margin-top: 10px !important;
+}
+
+.pdt_left h6 {
+    font-size: 16px;
+}
+
+section.product small {
+    margin-bottom: 40px;
+}
+
+.title.meeting-title button {
+    padding: 16px 35px;
+    width: max-content;
+}
+
+section.TESTIMONIALS {
+    padding-bottom: 40px;
+}
+.sdl_form.ftr_form input::placeholder{
+    font-size: 15px;
+}
+
+.sdl_form.ftr_form .phn.d-flex a {
+    font-size: 15px;
+    margin-top: -5px;
+}
+
+.sdl_form.ftr_form .phn input {
+    margin-bottom: 0;
+}
+
+section.FUTURE.count .nice-select.im_sl span {
+    font-size: 15px;
+}
+
+.radio_btn {
+    flex-wrap: wrap;
+    margin-left: 0;
+}
+
+.containerr {
+    font-size: 13px;
+    margin-bottom: 25px;
+}
+
+section.FUTURE.count {
+    background-position: center;
+    background-size: cover;
+}
+a.chat {
+    right: 10px;
+    padding: 10px 20px;
+}
+a.chat {
+    right: 10px;
+    padding: 10px 20px;
+}
+
+.product_btn ul li a {
+    margin-right: 10px;
+}
+
+.product_btn ul {display: inline-block;}
+
+.product_btn ul li {
+    /* width: max-content; */
+    margin: auto;
+}
+.footer_nav ul {
+    margin-bottom: 18px;
+}
+
+footer .logo-area {
+    margin-bottom: 20px;
+}
+
+.footer_nav ul li h4 {
+    margin-bottom: 12px !important;
+}
+
+footer {
+    padding-top: 40px;
+}
+
+footer hr {
+    margin-top: 20px !important;
+}
+
+.footer_btm.text-center p {
+    font-size: 12px !important;
+    margin: 0px 0 20px;
+}
+.header-area .logo-area {
+    border: none;
+}
+.bar a i {
+    transform: translateX(-9px);
+}
+.Schedule_mobile{
+    display: block;
+    margin-top: 20px;
+}
+.Schedule_mobile .sdl_form {
+    display: block;
+    position: unset;
+}
+
+.Schedule_mobile .sdl_form .sdl_input {
+    flex-wrap: wrap;
+}
+
+.Schedule_mobile .sdl_form .sdl_input input {
+    width: 100%;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+.Schedule_mobile .sdl_form .sdl_input .phn.d-flex {
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.Schedule_mobile .sdl_form .sdl_input .nice-select.im_sl {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.Schedule_mobile .sdl_form .sdl_input .phn.d-flex input {
+    margin-bottom: 0;
+}
+
+.Schedule_mobile .sdl_form .sdl_input .phn.d-flex a {
+    margin-top: -7px;
+}
+.Schedule_mobile .sdl_form .sdl_input a.btn_bdr {
+    max-width: 100%;
+}
+.d_m_none{
+    display: none;
+}
+.d_m_show{
+    display: block !important;
+    margin-bottom: 20px;
+}
+}
+ 
+/* Large Mobile screen :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+ 
+}
